@@ -1,0 +1,14 @@
+*
+**/*.h5
+!.gitignore
+!LICENSE
+!README.md
+
+!*/
+!**/
+
+!**/*.sh
+!**/*.html
+!**/*.out
+!**/*.err
+!**/efficiency.txt

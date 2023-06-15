@@ -1,0 +1,11 @@
+Job ID: 4929203
+Cluster: cedar
+User/Group: skim823/skim823
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 32
+CPU Utilized: 03:08:01
+CPU Efficiency: 12.38% of 1-01:18:24 core-walltime
+Job Wall-clock time: 00:47:27
+Memory Utilized: 52.22 GB
+Memory Efficiency: 40.79% of 128.00 GB
